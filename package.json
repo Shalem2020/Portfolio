@@ -1,7 +1,6 @@
 {
-  "name": "rishav-chanda-portfolio",
+  "name": "Shalem Raju-portfolio",
   "version": "0.1.0",
-  "homepage": "https://rishavchanda.github.io",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
