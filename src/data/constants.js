@@ -209,7 +209,7 @@ export const projects = [
     description:
       "project is mainly focused on website security and our objective is to solve this problem through automation, which entails running multiple scanning tools to discover vulnerabilities, effectively judge false positives, and collectively correlate results.Executes a multitude of security scanning tools, does other custom-coded checks, and prints the results spontaneously. Some of the tools include Nmap, DNS Recon, Uniscan, Fierce, The Harvester Nikto, etc execute under one entity.",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+      "",
     tags: [
       "Docker",
       "Linux",
