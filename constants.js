@@ -10,7 +10,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Shalem2020",
   resume:
-    "https://drive.google.com/file/d/1d8EhuaOYqMPUVE50ydbjuw_CJ2va6jn8/view?usp=sharing",
+    "https://drive.google.com/file/d/1eEau30tNkxBnQ0DKM5qS9waao_i01xPA/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/shalemrajumaddirala/",
   twitter: "https://twitter.com/rock_shalem",
   insta: "https://instagram.com/shalemrajumaddirala?igshid=OGQ5ZDc2ODk2ZA== ",
