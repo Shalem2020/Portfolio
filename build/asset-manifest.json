@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bf538fe7.css",
+    "main.js": "/static/js/main.65971912.js",
+    "static/media/demobank.png": "/static/media/demobank.6efe04445887f9a71f72.png",
+    "static/media/DOS image.png": "/static/media/DOS image.00c28202b199db76f68d.png",
+    "static/media/vuln-scanning.png": "/static/media/vuln-scanning.4b244ace417c467f27af.png",
+    "static/media/Ethical Image.jpg": "/static/media/Ethical Image.232ab21272a19b8b480e.jpg",
+    "index.html": "/index.html",
+    "main.bf538fe7.css.map": "/static/css/main.bf538fe7.css.map",
+    "main.65971912.js.map": "/static/js/main.65971912.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf538fe7.css",
+    "static/js/main.65971912.js"
+  ]
+}
